@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91eb5a57-2f2a-4577-875b-f4557d26ee32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/solutions/FindMinSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2025-software-dev-problem-set.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2025-software-dev-problem-set.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "StaceyO21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/StaceyO21/2025-software-dev-problem-set.git",
+    "accountId": "e5bbf594-16de-4cd6-b07a-fa67bb5a872f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="36GDM6hz4tO6JgnYw13Iw4YL5QY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "FindMinSortedArray",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/stace/Documents/GitHub/2025-software-dev-problem-set/2025-software-dev-problem-set/2025-software-dev-problem-set"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91eb5a57-2f2a-4577-875b-f4557d26ee32" name="Changes" comment="" />
+      <created>1764623963310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764623963310</updated>
+    </task>
+    <servers />
+  </component>
+</project>
