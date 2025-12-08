@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91eb5a57-2f2a-4577-875b-f4557d26ee32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Time_KeyValueStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="KokoBananas" />
+        <entry key="$PROJECT_DIR$" value="BinarySearch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "BinarySearch",
+    "git-widget-placeholder": "Time__Key-ValueStore",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/stace/Documents/GitHub/2025-software-dev-problem-set/2025-software-dev-problem-set/2025-software-dev-problem-set"
   }
