@@ -1,4 +1,5 @@
 public class BinarySearch {
+<<<<<<< HEAD
     public int search(int[] nums, int target){
         int l = 0;
         int r = nums.length - 1;
@@ -15,4 +16,6 @@ public class BinarySearch {
         }
         return -1;
     }
+=======
+>>>>>>> 2e0e5e233fcbb5ed1df12ce18c4cefe80dc8657e
 }
