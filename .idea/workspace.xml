@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91eb5a57-2f2a-4577-875b-f4557d26ee32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/solutions/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/PermutationNString.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/PermutationNString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Time_Key-ValueStore" />
+        <entry key="$PROJECT_DIR$" value="SlidingWindow" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "SlidingWindow",
+    "git-widget-placeholder": "LinkedList",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/stace/Documents/GitHub/2025-software-dev-problem-set/2025-software-dev-problem-set/2025-software-dev-problem-set"
   }
